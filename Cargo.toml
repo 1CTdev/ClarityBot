@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "app",
+    "bot_lib",
+    "loader",
+]
+
+resolver = "2"
