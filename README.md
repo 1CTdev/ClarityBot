@@ -1,6 +1,6 @@
 # ClarityBot
 
-This repo contains the ClarityBot agent, meant to be used with the server located at https://github.com/1CTdev/ClarityBot. 
+This repo contains the ClarityBot agent, meant to be used with the server located at https://github.com/1CTdev/ClarityBot_server. 
 
 ## features
 - communication over quic
